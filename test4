@@ -1,18 +1,4 @@
 {
-  'policy areas': [
-    'Financial Stability / Financial Services and Capital Markets Union',
-    'Mobility and Transport',
-    'Environment',
-    'Taxation and Customs Union',
-    'Justice, Fundamental Rights and Citizenship',
-    'Health and Food Safety',
-    'Employment, Social Affairs and Equal Opportunities',
-    'Internal Market, Industry, Entrepreneurship and SMEs',
-    'Energy',
-    'Home Affairs',
-    'Taxation and Customs Union',
-    'Maritime Affairs and Fisheries',
-  ],
   countries: {
     ES: {
       name: 'Spain',
